@@ -1,0 +1,116 @@
+---
+layout: wocc24
+title: wocc24
+permalink: /events/wocc24
+---
+----
+#### [Introduction](#Intro) | [Topics](#topics) | [Dates](#dates) | [Organizers](#org) | [Program Committee](#pc) | [Submission](#submission) | [Program](#program) | [Previous Editions](/events) 
+
+----
+#### held in conjunction with ISC'24: [The International Conference on High Performance Computing](https://www.isc-hpc.com/), [ISC Schedule](https://www.isc-hpc.com/agenda-2024.html)
+#### Date & Time: 9:00 AM to 1:00 PM (Europe/Berlin), Thursday, May 16, 2024
+#### Location: Hall Y2 - 2nd floor at Congress Center Hamburg, Germany
+---
+
+### <a name="Intro"></a>Introduction
+The landscape of scientific computing is changing rapidly as complex, multi-stage pipelined workflows that combine traditional HPC computations with large-scale data analytics and AI are becoming increasingly common. Cloud computing is becoming a dominant market force, driving innovation in both hardware and the software needed to manage increasing system and workflow complexity. These next-generation workflows not only seek to improve the efficiency and scale of traditional HPC simulations, but additionally aim to apply large-scale and distributed computing to domains with high societal impact such as autonomous vehicles, precision agriculture, or smart cities. Such complex workflows are expected to require the coordinated use of supercomputers, cloud data centers, and edge-processing devices in an environment with shared characteristics. Providing a seamless environment that combines the best of these worlds leads to an era of Converged Computing.
+
+Cloud computing technologies are gaining prevalence in HPC due to their benefits of resource dynamism, automation, reproducibility, and resilience. Similarly, HPC technologies for application performance optimization and sophisticated scheduling of complex resources are being integrated into modern cloud infrastructures. However, the convergence of HPC and cloud also raises a series of new challenges in areas of resource management, data transfers, storage and throughput. Modern cloud and HPC frameworks provide heterogeneous resources, including processors and accelerators, diverse types of memories and storage, and network links, to match the diversity in workloads. Similarly, cloud technologies for elasticity, resilience, and multi-tenancy need to be adopted in HPC while ensuring high performance and throughput. Converged software stacks will need to provide middleware and resource management to facilitate the use of heterogeneous hardware components, improve the system utilization, and provide seamless interfaces for users and application developers.  
+
+The Second Workshop on Converged Computing (WOCC’24) will provide the edge, HPC and cloud communities a dedicated venue for discussing challenges and research opportunities, deployment efforts, and best practices in supporting complex workflows on coordinated use of supercomputers and cloud data centers as well as edge-processing devices. The workshop encourages interaction between participants who are developing applications, algorithms, middleware and infrastructure for converged environments. The workshop will be an ideal place for the community to define the current state-of-the-art, identify fundamental challenges and feasible future technologies and techniques. The workshop aims to start discussion on questions, including: what changes to architecture, hardware, and middleware designs (including hardware monitoring, the operating systems, system software, resource management) are needed? How to monitor and collect system level metrics for utilization to identify bottlenecks to meet the different targets in performance, cost, power budget? How to support different coupling patterns (e.g., loose or tight) between traditional scientific and big-data/AI components? What complex workflows and workloads leverage heterogeneity, elasticity, dynamic resources provisioning?
+
+----
+
+## <a name="program"></a>Program (May 16, 09:00, Hall Y2 - 2nd floor at Congress Center Hamburg)
+
+ + 9:00 - 9:05 Opening and Welcome
+ + 9:05 - 10:00 Keynote
+   + Speaker: Valeria Cardellini, Professor of Computer Science, University of Rome, Italy
+   + Title: Serverless at the Convergence of Edge, Cloud and HPC: Issues and Perspectives
+   + Abstract: Serverless computing has enjoyed growing popularity over the last years as a Cloud paradigm, and research efforts are investigating how to leverage it for efficient execution of HPC applications. In this talk, we will consider the convergence of this paradigm, HPC applications and the Edge-Cloud compute continuum. Being the latter characterized by a largely heterogeneous environment, it brings along interesting challenges, including scheduling, offloading, and energy awareness. As a case study, we will discuss how we tackle these challenges in Serverledge, a decentralized open-source serverless platform designed for the Edge-Cloud continuum.
+   + Speaker's Bio: Valeria Cardellini is a full professor of computer science at the University of Rome Tor Vergata, Italy. She received her PhD degree in computer science from the University of Rome Tor Vergata in 2001. Her research interests are in the field of distributed software systems, including Cloud and Edge systems and services, resource management and self-adaptation, quality assurance. She has co-authored more than 100 publications in international journals and conferences and serves on the editorial boards of IEEE TPDS and Elsevier JPDC and on the technical program committees of system and performance conferences.
+
+
+ + 10:00    - 10:40 Invited Talk
+   + Speaker: Manolis Marazakis, Principal Staff Research Scientist, FORTH, Greece
+   + Title: Containers, HPC, and Cloud: A personal interpretation of "Reinventing HPC"
+   + Abstract: This year's theme at ISC is "Reinventing HPC", with particular emphasis on integrating AI-driven applications and quantum computing. Among other challenges, this broader scope of high-performance computing points to the need to evolve the systems software infrastructure. This talk provides a systems software architect's perspective on engineering HPC systems with more versatility in anticipation of increasingly diverse workloads and complex execution platforms in HPC centers. Rather than installing and maintaining one single software stack, this talk proposes shifting the emphasis more on the capacity to build and maintain multiple software stacks that serve specialized computational and data processing workloads that encompass classic HPC together with Cloud and AI. This envisioned shift also points to the ability to utilize computing nodes based on heterogeneous technologies, with complex memory/storage system requirements. Moreover, upcoming HPC systems are expected to operate not only as primary execution environments but also as part of workflows that span a computing continuum. This talk concludes by highlighting capabilities and challenges related to the evolution of container technology and the convergence of HPC and Cloud platforms.
+   + Speaker's Bio: Dr. Manolis Marazakis (Ph.D. in Computer Science, University of Crete, 2000) is a Principal Staff Research Scientist at the Institute of Computer science, FORTH. His research interests are in architectures and efficient systems software, mainly resource management and storage I/O middleware, for high-performance servers in data center environments. He has contributed to the design, implementation and performance analysis of several system prototypes for HPC, data analytics, multi-tenant workloads, and the convergence of HPC and Cloud infrastructures. He is the coordinator of the RISER project (https://riser-project.eu) that aims to build accelerator and microserver systems based on RISC-V chips from ongoing European projects funded by the EuroHPC JU.
+He is currently contributing to the upcoming update of the Strategic Research Agenda for HPC being developed by ETP4HPC, mainly in the area of system software and management. He is a senior member of ACM and IEEE, and a member of the USENIX Technical Society.[ more information: https://www.linkedin.com/in/mmarazakis]
+
+ + 10:40 - 11:00 Technical Session I
+   + Speaker: Alicia Esquivel Morel, University of Missouri, USA
+   + Title: FLOTO: Beyond Bandwidth - A Framework for Adaptable, Multi-Sensor Data Collection in Scientific Research
+ + 11:00    - 11:30 Coffee Break (managed by ISC)       
+ + 11:30    - 11:55  Technical Session II
+   + Speaker: Utz-Uwe Haus, HPE EMEA Research Lab (ERL), Switzerland
+   + Title: User-oriented Portable, Reproducible, and Scalable Software Ecosystem
+ + 11:55    - 12:35
+   + Speaker: Matt Williams, University of Bristol, UK
+   + Title: Cluster in the Cloud - scalable, heterogeneous compute clusters for HPC, HTC and AI in the public cloud or on-premise
+   + Abstract: We present Cluster in the Cloud, a free and open-source tool to create scalable, heterogeneous batch clusters on public and private cloud resources. Research workflows often require varied hardware throughout their pipeline: this may be needing a lot of RAM for one part, needing GPUs for another, or building on a particular CPU architecture; heterogeneous hardware is more and more required for research. Being able to scale heterogeneously—elastically as the work demands—is necessary to reduce time-to-science and do so in a cost-effective way. Clusters can be created in minutes, allowing environments to be created in response to novel research ideas or collaborations. Cluster in the Cloud provides a personal, at-scale platform for interactive and workflow based computing, AI and ML with CI/CD pipelines which are becoming more integrated into research. It has been used for published research into virology, carbon sequestration, computer science and therapeutics and has been deployed around the world by many universities on public cloud and integrated into on-premise confidential computing systems.
+ + 12:35    - 12:55
+   + Speaker: Daniel Medeiros, KTH Royal Institute of Technology, Sweden
+   + Title: Characterizing Container Portability from HPC systems to the Cloud
+ + 12:55    - 13:15
+   + Speaker: François Diakhaté , CEA, France
+   + Title: Leveraging private container networks for increased user isolation and flexibility on HPC clusters
+ + 13:15    Closing
+
+----
+
+### <a name="topics"></a>Topics of Interest 
+We encourage works that are related to the following topics and accept other related topics.
+
+ + Experience and best practice of converged computing of cloud, edge, and HPC
+ + Resource and job management software 
+ + Architectures, networks, and storage
+ + Software stack, middleware, and infrastructure 
+ + Advanced models for expressing system resources
+ + Scheduling, resource allocation, and adaptation
+ + Complex workflows including HPC, Machine-Learning, and Data Analytics components
+ + Early results and evaluation of porting HPC applications to clouds
+ + Elasticity and scalability amid resource heterogeneity
+ + Virtualization, containers, container runtimes, and container orchestration frameworks 
+ + Scalable and elastic storage and I/O data management services and architectures
+ + Resilience, fault tolerance, and reliability in converged computing environments
+ + Early results of leveraging cloud techniques (e.g., Kubernetes, cloud databases) for HPC applications
+ + System- and application-level resource monitoring and optimization techniques and tools
+
+### <a name="dates"></a>Important Dates
+ + Paper Submission -- ~~Mar 01, 2024~~ Mar 11, 2024
+ + Author Notifications -- Apr 01, 2024
+ + Workshop day -- May 16, 2024
+ + Camera Ready -- June 17, 2024, including Copyright Form
+ 
+
+### <a name="org"></a>Organizers
+ + Ivy Peng (KTH Royal Institute of Technology, Sweden)
+ + Daniel Milroy (Lawrence Livermore National Laboratory, USA)
+ + Tapasya Patki (Lawrence Livermore National Laboratory, USA)
+ + Valeria Cardellini (Tor Vergata University of Rome, Italy)
+ 
+### <a name="pc"></a>Program Committee
+  + Jeff Vetter, Oak Ridge National Laboratory, USA
+  + Daniel Ahlin, Google, Switzerland
+  + Claudia Misale, IBM, USA
+  + Jae-Seung Yeom, Lawrence Livermore National Laboratory, USA
+  + Rafael Tolosana-Calasanz, Universidad de Zaragoza, Spain
+  + Nathan Tallent, Pacific Northwest National Laboratory, USA
+  + Gabriele Russo Russo, Tor Vergata University of Rome, Italy
+  + Nina Mujkanovic, HPE, Switzerland
+  + Antony Chazapis, FORTH-ICS, Greece
+  + Jakob Luettgau, University of Tennessee Knoxville, USA
+  + Manolis Marazakis, FORTH-ICS, Greece
+  + Yoonho Park, IBM, USA
+
+### <a name="submission"></a>Submission 
+Submission is open now! Please submit your manuscript through [EasyChair](https://easychair.org/conferences/?conf=wocc24).
+Paper submissions must be formatted using LNCS style (see [Springer’s website](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Here is the link for Springer's requirements https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines with possibility to download templates etc. Springer’s proceedings LaTeX templates are also available in Overleaf. Use single-column format. Text must be a maximum of 12 pages (including figures and references) with 2 possible extra pages after the review to address the reviewer's comments. Papers must be suitable for double-blind review (see [ISC High Performance Double-Blind Review Guidelines](https://www.isc-hpc.com/files/isc_events/documents/ISC_double_blind_guidelines.pdf)).
+
+
+### <a name="review"></a>Review Process 
+Each paper is expected to receive a minimum of 3 reviews.
+Double-blind peer-review will be used.
+Papers will be evaluated based on novelty, technical soundness, clarity of presentation, and impact.
+The Technical Program Committee reserves the right to reject incorrectly formatted papers.
