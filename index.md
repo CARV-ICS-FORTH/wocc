@@ -1,7 +1,6 @@
 ---
-layout: wocc24
-title: wocc24
-permalink: /events/wocc24
+layout: wocc26
+title: wocc26
 ---
 ----
 #### [Introduction](#Intro) | [Topics](#topics) | [Dates](#dates) | [Organizers](#org) | [Program Committee](#pc) | [Submission](#submission) | [Program](#program) | [Previous Editions](/events) 
