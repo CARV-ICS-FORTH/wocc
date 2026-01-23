@@ -9,7 +9,7 @@ title: wocc26
 ----
 
 ##### held in conjunction with ICS 2026: [ACM International Conference on Supercomputing 2026](https://dipsa-qub.github.io/ICS2026-webpage/)
-##### Date & Time: TBD, July 2026
+##### Date & Time: July 6, 2026
 ##### Location: TBD
 
 ---
@@ -19,8 +19,8 @@ title: wocc26
 The landscape of scientific computing is changing rapidly as complex, multi-stage pipelined workflows that combine traditional HPC computations with large-scale data analytics and AI are becoming increasingly common. These next-generation workflows not only seek to improve the efficiency and scale of traditional HPC simulations, but additionally aim to apply large-scale and distributed computing to 6/domains with high societal impact such as autonomous vehicles, precision agriculture, or smart cities. Such complex workflows are expected to require the coordinated use of supercomputers and cloud data centers as well as edge-processing devices, leading to an era of Converged Computing that combines the best of these worlds.
 
 Cloud computing technologies are gaining prevalence in HPC due to their benefits of resource dynamism, automation, reproducibility, and resilience. Similarly, HPC technologies for application performance optimization and sophisticated scheduling of complex resources are being integrated into modern cloud infrastructures. However, the convergence of HPC and cloud also raises a series of new challenges in areas of resource management, data transfers, storage and throughput. Modern cloud and HPC frameworks provide heterogeneous resources, including processors and accelerators, diverse types of memories and storage, and network links, to match the diversity in workloads. Similarly, cloud technologies for elasticity, resilience, and multi-tenancy need to be adopted in HPC while ensuring high performance and throughput. Converged software stacks will need to provide middleware and resource management to facilitate the use of heterogeneous hardware components, improve the system utilization, and provide seamless interfaces for users and application developers.
-WOCC’26 will provide the edge, HPC and cloud communities a dedicated venue for discussing challenges and research opportunities, deployment efforts, and best practices in supporting complex workflows on coordinated use of supercomputers and cloud data centers as well as edge-processing devices. The workshop encourages interaction between participants who are developing applications, algorithms, middleware and infrastructure for converged environments. The workshop will be an ideal place for the community to define the current state-of-the-art, identify fundamental challenges and feasible future technologies and techniques. The workshop aims to start discussion on questions, including:
 
+WOCC’26 will provide the edge, HPC and cloud communities a dedicated venue for discussing challenges and research opportunities, deployment efforts, and best practices in supporting complex workflows on coordinated use of supercomputers and cloud data centers as well as edge-processing devices. The workshop encourages interaction between participants who are developing applications, algorithms, middleware and infrastructure for converged environments. The workshop will be an ideal place for the community to define the current state-of-the-art, identify fundamental challenges and feasible future technologies and techniques. The workshop aims to start discussion on questions, including:
 * What changes to architecture, hardware, and middleware designs (including hardware monitoring, the operating systems, system software, resource management) are needed?
 * How to monitor and collect system level metrics for utilization to identify bottlenecks to meet the different targets in performance, cost, power budget?
 * How to support different coupling patterns (e.g., loose or tight) between traditional scientific and big-data/AI components?
@@ -51,10 +51,10 @@ TBD
 
 ### <a name="dates"></a>Important Dates
 
-* Paper Submission -- TBD
-* Author Notifications -- TBD
-* Workshop day -- TBD
-* Camera Ready -- TBD
+* Paper Submission: TBD
+* Author Notifications: TBD
+* Workshop day: TBD
+* Camera Ready: TBD
 
 ### <a name="org"></a>Organizers
 
