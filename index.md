@@ -1,5 +1,5 @@
 ---
-layout: wocc26
+layout: wocc
 title: wocc26
 ---
 ----
