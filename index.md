@@ -47,7 +47,10 @@ We encourage works that are related to the following topics and accept other rel
 
 ### <a name="program"></a>Program
 
-TBD
+* Paper Submission: March 20, 2026
+* Author Notifications: April 21, 2026
+* Workshop Day: July 6, 2026
+* Camera Ready: May 6, 2026
 
 ### <a name="dates"></a>Important Dates
 
@@ -65,15 +68,11 @@ TBD
  
 ### <a name="pc"></a>Program Committee
 
-* Jeff Vetter, Oak Ridge National Laboratory, USA
-* Daniel Ahlin, Google, Switzerland
-* Claudia Misale, IBM, USA
+* Claudia Misale, CoreWeave, USA
 * Jae-Seung Yeom, Lawrence Livermore National Laboratory, USA
 * Rafael Tolosana-Calasanz, Universidad de Zaragoza, Spain
 * Nathan Tallent, Pacific Northwest National Laboratory, USA
 * Gabriele Russo Russo, Tor Vergata University of Rome, Italy
-* Nina Mujkanovic, HPE, Switzerland
-* Jakob Luettgau, University of Tennessee Knoxville, USA
 * Manolis Marazakis, FORTH-ICS, Greece
 * Yoonho Park, IBM, USA
 
