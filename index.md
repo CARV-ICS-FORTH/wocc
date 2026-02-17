@@ -47,17 +47,14 @@ We encourage works that are related to the following topics and accept other rel
 
 ### <a name="program"></a>Program
 
+TBD
+
+### <a name="dates"></a>Important Dates
+
 * Paper Submission: March 20, 2026
 * Author Notifications: April 21, 2026
 * Workshop Day: July 6, 2026
 * Camera Ready: May 6, 2026
-
-### <a name="dates"></a>Important Dates
-
-* Paper Submission: TBD
-* Author Notifications: TBD
-* Workshop day: TBD
-* Camera Ready: TBD
 
 ### <a name="org"></a>Organizers
 
