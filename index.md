@@ -8,7 +8,7 @@ title: wocc26
 
 ----
 
-##### held in conjunction with ICS 2026: [ACM International Conference on Supercomputing 2026](https://dipsa-qub.github.io/ICS2026-webpage/)
+##### Held in conjunction with ICS 2026: [ACM International Conference on Supercomputing 2026](https://dipsa-qub.github.io/ICS2026-webpage/)
 ##### Date & Time: July 6, 2026
 ##### Location: TBD
 
@@ -78,7 +78,9 @@ We encourage works that are related to the following topics and accept other rel
 
 ### <a name="submission"></a>Submission
 
-We invite original works in either short paper (6 pages) or long paper (8 pages), excluding references. Accepted papers will be published in the ACM proceedings. Have in mind that [ACM’s publications policies](https://www.acm.org/publications/policies) apply to all submitted papers, including ACM’s new [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects). Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper.
+Submission is open now! Please submit your manuscript through [EasyChair](https://easychair.org/conferences/?conf=wocc26).
+
+We invite original works in either short paper (6 pages) or long paper (8 pages), excluding references. Accepted papers will be published in the ACM proceedings. Have in mind that [ACM’s Publications Policies](https://www.acm.org/publications/policies) apply to all submitted papers, including ACM’s new [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects). Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper.
 
 ### <a name="review"></a>Review Process
 
