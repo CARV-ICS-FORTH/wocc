@@ -51,7 +51,7 @@ TBD
 
 ### <a name="dates"></a>Important Dates
 
-* Paper Submission: ~March 20, 2026~ extended to March 31, 2026
+* Paper Submission: ~~March 20, 2026~~ extended to March 31, 2026
 * Author Notifications: April 21, 2026
 * Workshop Day: July 6, 2026
 * Camera Ready: May 6, 2026
