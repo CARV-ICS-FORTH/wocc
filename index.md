@@ -9,8 +9,8 @@ title: wocc26
 ----
 
 ##### Held in conjunction with ICS 2026: [ACM International Conference on Supercomputing 2026](https://dipsa-qub.github.io/ICS2026-webpage/)
-##### Date & Time: July 6, 2026
-##### Location: TBD
+##### Date & Time: July 6, 2026, 09:00 - 12:30
+##### Location: Room 5
 
 ---
 
@@ -45,9 +45,40 @@ We encourage works that are related to the following topics and accept other rel
 * Early results of leveraging cloud techniques (e.g., Kubernetes, cloud databases) for HPC applications
 * System- and application-level resource monitoring and optimization techniques and tools
 
-### <a name="program"></a>Program
+### <a name="program"></a>Program (Tentative)
 
-TBD
+* 8:00 - 9:00, Registration
+
+* 9:00 - 9:05, Opening and Welcome
+
+* 9:05 - 9:50, Keynote
+
+  * Speaker: Evgenia Smirni, Sidney P. Chockley Professor and Chair of Computer Science Department at the College of William and Mary, USA
+  * Title: The Paradigm Shift in Serverless Performance Prediction: From Analytical Models to Machine Learning
+
+* 9:50 - 10:30, Invited Talk
+
+  * Speaker: Ivy Peng, Associate Professor of Computer Science, KTH, Sweden
+  * Title: Exploring Dynamic Memory Scaling of HPC workloads on Kubernetes: Lessons learned from Empirical to Reinforcement Learning approaches
+  * Abstract: HPC workloads often over-provision memory to guard against peak demand, leaving substantial memory capacity idle. Dynamic memory scaling is critical for improving memory utilization requires accurate prediction of workload needs. In this talk, we share our experience and lessons learnt from exploring both heuristics-based and reinforcement learning approaches to achieve vertical memory resource adaptivity for HPC workloads in containerized environments.
+  * Speaker’s Bio: Ivy Peng is an Associate Professor of Computer Science at KTH, where she leads the Scalable Computing Group (ScaLab), researching heterogeneous systems for parallel computing. Her current research focuses on hardware/software co-design to exploit novel accelerators and memory systems, as well as system software for the convergence of HPC and Cloud.
+
+* 10:30 - 11:00, Coffee break
+
+* 11:00 - 11:25, Paper Presentation
+
+  * Speaker: Dumo Ngwenya, The Open University, UK
+  * Title: Controlled Granularity Tuning for Log-Based Anomaly Detection in Converged HPC-Cloud Environments
+
+* 11:25 - 11:50, Paper Presentation
+
+  * Speaker: Giannis Petsis, FORTH, Greece
+  * Title: Running Containers in HPC Inside Private, User-Level Network Overlays
+
+* 11:50 - 12:30, Invited Talk
+
+  * Speaker: Thierry Goubier, Research Engineer, CEA, France
+  * Title: Interactive and Urgent HPC: Challenges and Opportunities
 
 ### <a name="dates"></a>Important Dates
 
