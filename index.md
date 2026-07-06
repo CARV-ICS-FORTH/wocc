@@ -10,7 +10,7 @@ title: wocc26
 
 ##### Held in conjunction with ICS 2026: [ACM International Conference on Supercomputing 2026](https://dipsa-qub.github.io/ICS2026-webpage/)
 ##### Date & Time: July 6, 2026, 09:00 - 12:30
-##### Location: Room 5
+##### Location: Room 7
 
 ---
 
